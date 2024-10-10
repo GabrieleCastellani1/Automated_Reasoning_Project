@@ -1,0 +1,120 @@
+Instance 1
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 49
+  Optimum    : yes
+Optimization : 4494
+Calls        : 1
+Time         : 1.155s (Solving: 1.15s 1st Model: 0.00s Unsat: 0.39s)
+CPU Time     : 1.155s
+Instance 2
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 36
+  Optimum    : yes
+Optimization : 4996
+Calls        : 1
+Time         : 3.651s (Solving: 3.64s 1st Model: 0.00s Unsat: 2.37s)
+CPU Time     : 3.651s
+Instance 3
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 27
+  Optimum    : yes
+Optimization : 3955
+Calls        : 1
+Time         : 0.064s (Solving: 0.06s 1st Model: 0.00s Unsat: 0.05s)
+CPU Time     : 0.064s
+Instance 4
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 29
+  Optimum    : yes
+Optimization : 5509
+Calls        : 1
+Time         : 0.608s (Solving: 0.60s 1st Model: 0.00s Unsat: 0.53s)
+CPU Time     : 0.608s
+Instance 5
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 37
+  Optimum    : yes
+Optimization : 4884
+Calls        : 1
+Time         : 0.320s (Solving: 0.32s 1st Model: 0.00s Unsat: 0.05s)
+CPU Time     : 0.320s
+Instance 6
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 39
+  Optimum    : yes
+Optimization : 4163
+Calls        : 1
+Time         : 0.044s (Solving: 0.04s 1st Model: 0.00s Unsat: 0.03s)
+CPU Time     : 0.044s
+Instance 7
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 19
+  Optimum    : yes
+Optimization : 4462
+Calls        : 1
+Time         : 0.023s (Solving: 0.02s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.023s
+Instance 8
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 25
+  Optimum    : yes
+Optimization : 4556
+Calls        : 1
+Time         : 0.034s (Solving: 0.03s 1st Model: 0.00s Unsat: 0.01s)
+CPU Time     : 0.034s
+Instance 9
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 24
+  Optimum    : yes
+Optimization : 4696
+Calls        : 1
+Time         : 0.017s (Solving: 0.02s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.017s
+Instance 10
+clingo version 5.4.1
+Reading from ex_exam.pl ...
+Solving...
+OPTIMUM FOUND
+
+Models       : 26
+  Optimum    : yes
+Optimization : 4650
+Calls        : 1
+Time         : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.006s
